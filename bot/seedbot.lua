@@ -229,7 +229,12 @@ function create_config( )
     sudo_users = {137264699,184413821},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-   
+    about_text = [[Persian bot v1.0 
+   سازنده : @Minaco1
+   سرمایه گزار : @Mosy15
+    
+]],
+    help_text_re
     help_text_realm = [[
 Realm Commands:
 
